@@ -4,7 +4,7 @@ I'm Jim Carr.  I'm a software engineer, since 1988.  I like scientific and techn
 
 ## My Projects
 
-I have a variety of projects here on GitHub.  The ones I've spent the most time on, by far, are the Practical Astronomy repos:
+I have a [variety of projects](https://github.com/jfcarr?tab=repositories) here on GitHub.  The ones I've spent the most time on, by far, are the Practical Astronomy repos:
 
 Name | Status
 ---- | ------
