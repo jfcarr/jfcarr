@@ -24,6 +24,6 @@ Site | Description
 
 ### Practical Astronomy
 
-I have an amateur interest in astronomy and several years ago I acquired a book called "Practical Astronomy With Your Calculator or Spreadsheet". The book includes implementation of astronomical algorithms in Excel. I was curious about the possibility of translating the spreadsheets into programming languages so I started playing around with that and I've now completed translations into C, C++, .NET/C#, PHP, Rust, JavaScript, Python, and Java.  I've also recently begun working on a Go port.
+I have an amateur interest in astronomy and several years ago I acquired a book called "Practical Astronomy With Your Calculator or Spreadsheet". The book includes implementation of astronomical algorithms in Excel. I was curious about the possibility of translating the spreadsheets into programming languages so I started playing around with that and I've now completed translations into C, C++, .NET/C#, PHP, Rust, JavaScript, Python, Java, and Go.
 
 You can access all of these in the [Practical Astronomy organization](https://github.com/Practical-Astronomy).
